@@ -1,0 +1,11 @@
+{
+    "events": {
+        "restart": "npm run ssr",
+        "start": "npm run ssr"
+    },
+    "ignore": [
+        "dist/*", 
+        "dist_ejs/*",
+        "dist_server/*"
+    ]
+}
